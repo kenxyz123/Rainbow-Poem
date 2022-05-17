@@ -7,4 +7,5 @@ Green
 Blue
 Indigo
 violet
-These are the colours of the rainbow
+
+These are the 7 colours of the rainbow
