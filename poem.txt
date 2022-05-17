@@ -1,5 +1,4 @@
 The Rainbow and the unicorn
-
 Orange
 Red
 Yellow
@@ -8,10 +7,9 @@ Blue
 Indigo
 Unicorn
 violet
-
+Spanner in the works
 
 These are the 7 colours of the rainbow and there is a Unicorn in it also violets are red and roses are blue it isn't a fact, so what are we to do?
-
 
 Not conflict errors can be if another linc clashes with another on the merge
 
