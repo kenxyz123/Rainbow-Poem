@@ -1,4 +1,4 @@
-The Rainbow
+The Rainbow and the unicorn
 
 Orange
 Red
@@ -6,6 +6,7 @@ Yellow
 Green
 Blue
 Indigo
+Unicorn
 violet
 
-These are the 7 colours of the rainbow
+These are the 7 colours of the rainbow and there is a Unicorn in it.
