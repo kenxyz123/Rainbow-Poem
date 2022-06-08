@@ -1,4 +1,7 @@
 The Rainbow and the unicorn
+
+This is just a twsy page to learn about github
+
 purple
 Orange
 Red
