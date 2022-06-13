@@ -1,6 +1,6 @@
 The Rainbow and the unicorn
 
-This is just a twsy page to learn about github
+This is just a test page to learn about github
 
 purple
 Orange
